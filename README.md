@@ -1,5 +1,6 @@
 # Rainpower
 Rainfall Calculator and Harvesting Tool
+https://ddf46429.springboard.com/uploads/resources/1581702771_SEC_Capstone_Step_Two__Project_Proposal.pdf
 
 1. Goal
 The website will allow users to calculate rainfall estimates for their rainwater harvesting system. Users will be able to save "properties" that will have historical rainfall data. This data will be able to be viewed as daily, weekly, and monthly totals.
